@@ -35,5 +35,7 @@ Switching to MySQL fixed many problems with Excel and gave the company these ben
 
 ## Project Files
 
-- [PowerPoint Presentation](https://github.com/your-username/your-repo-name/blob/main/ProjectOverview.pptx): Detailed slides showcasing the project overview, key tasks, and outcomes.
-- [SQL Query PDF](https://github.com/your-username/your-repo-name/blob/main/SQLQueries.pdf): A comprehensive collection of SQL queries used to generate finance and supply chain reports.
+- [PowerPoint Presentation in PDF](
+https://github.com/shivaprasadpiraga98/SQL-Finance-and-Supply-Chain-Analytics-AtliQ-Hardwares/blob/main/AtliQ_Hardwares-finance%20%26%20supply%20chain_SQL%20project%20ppt-pdf.pdf): Detailed slides showcasing the project overview, key tasks, and outcomes.
+
+- [SQL Querys PDF](https://github.com/shivaprasadpiraga98/SQL-Finance-and-Supply-Chain-Analytics-AtliQ-Hardwares/blob/main/SQL%20Queries-%20AtliQ%20Hardware's.pdf): A comprehensive collection of SQL queries used to generate finance and supply chain reports.
